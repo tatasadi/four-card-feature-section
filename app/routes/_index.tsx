@@ -1,5 +1,6 @@
 import type { MetaFunction } from '@remix-run/node'
 import Card from '~/components/Card'
+import Footer from '~/components/Footer'
 
 export const meta: MetaFunction = () => {
   return [{ title: 'Four Card Feature Section' }, { name: 'description', content: 'A Challenge from Fronendmentor' }]
@@ -49,6 +50,7 @@ export default function Index() {
             className="lg:col-start-3 lg:row-span-2 lg:row-start-1"
           />
         </div>
+        <Footer />
       </div>
     </main>
   )
