@@ -15,7 +15,7 @@ export default function Index() {
         <h2 className="mb-[0.81rem] text-2xl font-semibold tracking-[0.1044rem] text-very-dark-blue lg:text-4xl lg:tracking-[0.01563]">
           Powered by Technology
         </h2>
-        <p className="mb-[4.75rem] text-[0.9375rem] leading-[1.5625rem] tracking-[0.0065rem] text-very-dark-blue opacity-50">
+        <p className="mb-[4.75rem] max-w-lg text-[0.9375rem] leading-[1.5625rem] tracking-[0.0065rem] text-very-dark-blue opacity-50">
           Our Artificial Intelligence powered tools use millions of project data points to ensure that your project is
           successful
         </p>
