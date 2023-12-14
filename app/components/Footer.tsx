@@ -18,7 +18,7 @@ export default function Footer() {
       <br />
       <a
         className="footer-link"
-        href="https://github.com/tatasadi/stats-preview-card-component"
+        href="https://github.com/tatasadi/four-card-feature-section"
         target="_blank"
         rel="noreferrer"
       >
